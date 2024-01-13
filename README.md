@@ -1,7 +1,7 @@
 - 👋 Hello, World! I'm Jonathan, a passionate developper based in Paris.
 - 🚀 I thrive on challenges and love turning ideas into reality.
 - 💻 Languages: C++, Typescript, C#, Java
-- 🌐 Frontend Technologies: Nextjs, React, Qt
+- 🌐 Frontend Technologies: React, Qt
 - 📱 Mobile Development: React Native, Felgo
 - 🛠️ Backend Frameworks: Drogon C++, Spring Boot, Node.js
 - 🗃️ Databases: PostgreSQL, MySQL, SQLite, Oracle
