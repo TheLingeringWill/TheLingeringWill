@@ -1,9 +1,10 @@
-- 👋 Hello, World! I'm Jonathan, a passionate developper based in Paris.
-- 🚀 I thrive on challenges and love turning ideas into reality.
-- 💻 Languages: C++, Rust, Typescript.
-- 🌐 Frontend Technologies: Nextjs, Qt.
-- 📱 Mobile Development: React Native, Felgo.
-- 🛠️ Backend Frameworks: Axum, Nestjs, Drogon.
-- 🗃️ Databases: PostgreSQL, MySQL, SQLite, Oracle.
-- 🚀 DevOps: Docker, Kubernetes.
-- 🛢️ Cloud Services: AWS (EC2, S3, VPC, RDS, KMS).
+- 👋 Hi, I’m **Jonathan**, a passionate software engineer based in Paris.  
+- 🚀 I love solving complex problems and turning ideas into impactful products.  
+- 💻 **Languages**: C++, Rust, TypeScript, Python  
+- 🌐 **Frontend**: Next.js, Qt/QML  
+- 📱 **Mobile**: React Native, Felgo  
+- 🛠️ **Backend**: Axum, Tokio (Rust), NestJS (TypeScript), Drogon (C++)  
+- 🗃️ **Databases**: PostgreSQL, MySQL, SQLite, OracleDB  
+- ⚙️ **DevOps**: Docker, Kubernetes, GitLab CI/CD  
+- ☁️ **Cloud**: AWS (EC2, S3, VPC, RDS, KMS), LocalStack  
+- 📦 **Tools**: CMake, FFmpeg, Git, GoogleTest, PlantUML, Doxygen  
