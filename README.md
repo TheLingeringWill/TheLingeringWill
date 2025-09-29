@@ -51,12 +51,9 @@ I can help your team:
 
 ---
 
-### 📫 Let’s Connect
+### 📫 Let’s Connec
 
 💼 [LinkedIn](https://www.linkedin.com/in/jonathan-elbaz/)
-✍️ [Medium](https://medium.com/@jonathan-elbaz)
-📧 **[jonathan.el.baz@efrei.net](mailto:jonathan.el.baz@efrei.net)**
+✍️ [Medium](https://medium.com/@jonathan.el.baz)
 
 ---
-
-👉 Do you want me to also make a **shorter “headline” version** (2-3 punchy paragraphs) for GitHub visitors who don’t scroll much, so they get the key points fast?
