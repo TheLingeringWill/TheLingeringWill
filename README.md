@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Jonathan Elbaz**
+# 👋 Hi, I’m **Jonathan Elbaz*
 
 I’m a **full-stack engineer** with a **Bachelor in Computer Science** and a **Master’s degree in Software Engineering**.
 My expertise lies at the intersection of **high-performance systems** and **modern web/mobile development**:
