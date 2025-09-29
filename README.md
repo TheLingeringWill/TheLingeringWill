@@ -10,7 +10,7 @@ My expertise lies at the intersection of **high-performance systems** and **mode
 
 ---
 
-### 📫 Let’s Connec
+### 📫 Let’s Connect
 
 💼 [LinkedIn](https://www.linkedin.com/in/jonathan-elbaz/)
 ✍️ [Medium](https://medium.com/@jonathan.el.baz)
