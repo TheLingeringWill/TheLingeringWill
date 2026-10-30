@@ -8,31 +8,27 @@ I started in **safety-critical C++ on a medical device**, where every line has t
 
 ---
 
-### ⚙️ Before Rust: medical devices (C++17 / Qt)
-
-At **Cardiawave** (non-invasive ultrasound therapy for cardiac conditions), I built shared C++ libraries that **cut development and validation time by ~25%** and led a proof of concept that secured additional R&D funding.
-
----
-
 ### 🧰 Stack
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Tokio](https://img.shields.io/badge/Tokio-000000?style=flat&logo=rust&logoColor=white)
 ![Axum](https://img.shields.io/badge/Axum-000000?style=flat&logo=rust&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
 ![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=flat&logo=htmx&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claude&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native%20(Expo)-000020?style=flat&logo=expo&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B17-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
 
-**AI:** LLM agents, agent harnesses, AI-assisted development with strict quality gates
+**AI:** daily **Claude Code** user — LLM agents, agent harnesses, AI-assisted development with strict quality gates
+
+**Cloud:** **AWS** — Lambda, serverless, EventBridge, SQS
 
 ---
 
 ### 📫 Let's connect
-
-I'm **open to Rust and AI engineering roles** in delivery-focused product teams.
 
 💼 [LinkedIn](https://www.linkedin.com/in/jonathan-elbaz/) · ✍️ [Medium](https://medium.com/@jonathan.el.baz)
