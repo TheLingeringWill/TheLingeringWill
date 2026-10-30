@@ -1,34 +1,32 @@
-# 👋 Hi, I'm Jonathan Elbaz 🦀
+# Jonathan Elbaz 🦀
 
-### Rust & AI Engineer
+I build backends in Rust, and I like them boring: small, typed, fast, and cheap enough that nobody has to ask about the AWS bill.
 
-I'm a **Rust engineer who takes products from first spec to production**, and keeps them **fast, secure and cheap to run**.
+I came to Rust from C++: templates, `constexpr` tricks, and a medical device where every line had to be justified before it shipped. Rust gave me the same control, with a compiler that argues with me *before* production does.
 
-I started in **safety-critical C++ on a medical device**, where every line has to be justified and validated. I bring that discipline to product work in Rust, and to how I use AI: I develop with **AI agents inside a harness I build as the project grows** — strict Clippy lints, rustfmt, test suites, CI quality gates, written specs and a defined agent workflow. The agents speed me up; the harness keeps their output reliable in production.
+### What I care about
 
----
+- **Layers that mean something.** Domain in the middle, infrastructure at the edge, dependencies pointing inward. My [Rust scaffold](https://github.com/TheLingeringWill/rust-onion-architecture-boilerplate) is the shape every new service starts from.
+- **Fewer moving parts.** A queue instead of another service. One binary instead of a cluster. Delete before you add.
+- **Letting tools do the nagging.** Strict Clippy, rustfmt and tests on every push, so code review can talk about design.
+- **AI as a pair, not an autopilot.** I live in Claude Code, inside guardrails: specs first, then lints and tests as the referee.
 
-### 🧰 Stack
+### My desk
+
+Neovim (LazyVim) · tmux · Alacritty · Catppuccin Mocha · Claude Code. It's all in my [dotfiles](https://github.com/TheLingeringWill/dotfiles).
+
+### Toolbox
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Tokio](https://img.shields.io/badge/Tokio-000000?style=flat&logo=rust&logoColor=white)
 ![Axum](https://img.shields.io/badge/Axum-000000?style=flat&logo=rust&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
-![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=flat&logo=htmx&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claude&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native%20(Expo)-000020?style=flat&logo=expo&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
 
-**AI:** daily **Claude Code** user — LLM agents, agent harnesses, AI-assisted development with strict quality gates
+Rust (Axum, Tokio, Diesel) for the core · AWS serverless (Lambda, SQS, EventBridge) to run it · TypeScript and React Native when the product needs a face · C++ when I'm feeling nostalgic.
 
-**Cloud:** **AWS** — Lambda, serverless, EventBridge, SQS
+### Elsewhere
 
----
-
-### 📫 Let's connect
-
-💼 [LinkedIn](https://www.linkedin.com/in/jonathan-elbaz/) · ✍️ [Medium](https://medium.com/@jonathan.el.baz)
+[LinkedIn](https://www.linkedin.com/in/jonathan-elbaz/) · [Medium](https://medium.com/@jonathan.el.baz)
