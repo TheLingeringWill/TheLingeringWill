@@ -1,18 +1,12 @@
 # 👋 Hi, I'm Jonathan Elbaz 🦀
 
-### Rust & AI Engineer · Tel Aviv / Remote
+### Rust & AI Engineer
 
 I'm a **Rust engineer who takes products from first spec to production**, and keeps them **fast, secure and cheap to run**.
 
 I started in **safety-critical C++ on a medical device**, where every line has to be justified and validated. I bring that discipline to product work in Rust, and to how I use AI: I develop with **AI agents inside a harness I build as the project grows** — strict Clippy lints, rustfmt, test suites, CI quality gates, written specs and a defined agent workflow. The agents speed me up; the harness keeps their output reliable in production.
 
 ---
-
-### 🦀 What I've shipped in Rust
-
-- **E-table** — booking platform for hospitality venues (Marki&Co). Took over a 1.5M+ line TypeScript codebase, migrated it from Cloudflare Workers to AWS and **rewrote it in Rust (Axum, Tokio)**. ~210K bookings/year across 10+ venues, an embedded widget (Askama + HTMX) handling €50–100M/month in bookings, Stripe payments and a WhatsApp AI booking agent.
-- **Veevre** — live masterclass platform for seniors, white-labeled per organization. 900+ members, 40 speakers, **live video over WebRTC**, HLS replays, AI chat moderation and AI session summaries.
-- **PinckIt** — video app for discovering local venues (CTO). Rust backend (Axum, Tokio, Diesel) with Onion Architecture and event-driven video processing. **Raised upload success from 65% to 95%** with a split & stitch pipeline, 7,000+ users, infra **under €50/month**.
 
 ### ⚙️ Before Rust: medical devices (C++17 / Qt)
 
