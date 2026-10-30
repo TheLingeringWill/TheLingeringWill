@@ -2,8 +2,6 @@
 
 I build backends in Rust, and I like them boring: small, typed, fast, and cheap enough that nobody has to ask about the AWS bill.
 
-I came to Rust from C++: templates, `constexpr` tricks, and a medical device where every line had to be justified before it shipped. Rust gave me the same control, with a compiler that argues with me *before* production does.
-
 ### What I care about
 
 - **Layers that mean something.** Domain in the middle, infrastructure at the edge, dependencies pointing inward. My [Rust scaffold](https://github.com/TheLingeringWill/rust-onion-architecture-boilerplate) is the shape every new service starts from.
