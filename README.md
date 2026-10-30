@@ -13,7 +13,7 @@ I came to Rust from C++: templates, `constexpr` tricks, and a medical device whe
 
 ### My desk
 
-Neovim (LazyVim) · tmux · Alacritty · Catppuccin Mocha · Claude Code. It's all in my [dotfiles](https://github.com/TheLingeringWill/dotfiles).
+Neovim (LazyVim) · tmux · Ghostty · Catppuccin Mocha · Claude Code. It's all in my [dotfiles](https://github.com/TheLingeringWill/dotfiles).
 
 ### Toolbox
 
