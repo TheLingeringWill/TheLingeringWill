@@ -4,7 +4,7 @@ I build backends in Rust, and I like them boring: small, typed, fast, and cheap 
 
 ### What I care about
 
-- **Layers that mean something.** Domain in the middle, infrastructure at the edge, dependencies pointing inward. My [Rust scaffold](https://github.com/TheLingeringWill/rust-onion-architecture-boilerplate) is the shape every new service starts from.
+- **Layers that mean something.** Domain in the middle, infrastructure at the edge, dependencies pointing inward. 
 - **Fewer moving parts.** A queue instead of another service. One binary instead of a cluster. Delete before you add.
 - **Letting tools do the nagging.** Strict Clippy, rustfmt and tests on every push, so code review can talk about design.
 - **AI as a pair, not an autopilot.** I live in Claude Code, inside guardrails: specs first, then lints and tests as the referee.
